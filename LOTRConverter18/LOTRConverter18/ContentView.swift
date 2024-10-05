@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
-                .foregroundColor(Color.green)
+                .foregroundColor(Color.red)
                 .imageScale(.large)
                 .foregroundStyle(.fill)
             Text("Hello, world!")
